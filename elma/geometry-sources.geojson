@@ -1,0 +1,1297 @@
+{
+  "type": "FeatureCollection",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/128161527",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161527,
+        "node_ids": [
+          1416871129,
+          1416871132,
+          1416871118,
+          1416871115,
+          1416871129
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с1",
+          "addr:street": "Выборгская улица",
+          "building": "industrial",
+          "building:colour": "orange",
+          "building:levels": "6",
+          "building:material": "brick",
+          "roof:colour": "grey",
+          "roof:material": "tar_paper",
+          "roof:shape": "flat"
+        },
+        "source_version": 6,
+        "source_timestamp": "2023-08-09T11:35:13Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 52.401,
+          "length": 20.748
+        },
+        "edge_lengths_meters": [
+          19.847,
+          52.209,
+          20.754,
+          52.413
+        ],
+        "area_m2": 1061.85,
+        "elma_building_assignment": "building-1",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5032879,
+              55.8358613
+            ],
+            [
+              37.5035786,
+              55.8359321
+            ],
+            [
+              37.5039253,
+              55.8355057
+            ],
+            [
+              37.5036227,
+              55.8354299
+            ],
+            [
+              37.5032879,
+              55.8358613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28950797",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28950797,
+        "node_ids": [
+          318307540,
+          318307542,
+          7620776535,
+          7620776534,
+          7620776533,
+          7620776536,
+          1416871115,
+          1416871118,
+          318307543,
+          318307541,
+          318307540
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с2",
+          "addr:street": "Выборгская улица",
+          "building": "industrial",
+          "building:colour": "grey",
+          "building:levels": "3",
+          "building:material": "plaster",
+          "roof:colour": "grey",
+          "roof:material": "tar_paper",
+          "roof:shape": "flat"
+        },
+        "source_version": 13,
+        "source_timestamp": "2023-08-09T11:35:13Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 50.136,
+          "length": 168.34
+        },
+        "edge_lengths_meters": [
+          42.988,
+          25.393,
+          7.111,
+          41.721,
+          7.202,
+          61.881,
+          20.754,
+          18.377,
+          42.911,
+          168.161
+        ],
+        "area_m2": 7518.64,
+        "elma_building_assignment": "building-2",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5020168,
+              55.8346056
+            ],
+            [
+              37.5017413,
+              55.8349592
+            ],
+            [
+              37.5021115,
+              55.835052
+            ],
+            [
+              37.5020672,
+              55.8351108
+            ],
+            [
+              37.5026751,
+              55.8352637
+            ],
+            [
+              37.5027202,
+              55.8352042
+            ],
+            [
+              37.5036227,
+              55.8354299
+            ],
+            [
+              37.5039253,
+              55.8355057
+            ],
+            [
+              37.5041931,
+              55.835573
+            ],
+            [
+              37.5044684,
+              55.8352201
+            ],
+            [
+              37.5020168,
+              55.8346056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161520",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161520,
+        "node_ids": [
+          1416871113,
+          1416871136,
+          1416871130,
+          1416871128,
+          1416871120,
+          7620776528,
+          7620776527,
+          1416871119,
+          1416871121,
+          7620776530,
+          7620776529,
+          1416871095,
+          1416871113
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с3",
+          "addr:postcode": "125130",
+          "addr:street": "Выборгская улица",
+          "building": "industrial",
+          "building:levels": "2"
+        },
+        "source_version": 6,
+        "source_timestamp": "2020-06-14T22:41:37Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 48.951,
+          "length": 216.629
+        },
+        "edge_lengths_meters": [
+          215.398,
+          18.676,
+          3.553,
+          19.481,
+          11.787,
+          10.29,
+          13.649,
+          4.896,
+          171.777,
+          4.503,
+          17.76,
+          32.102
+        ],
+        "area_m2": 7811.87,
+        "elma_building_assignment": "building-3",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.4986667,
+              55.835296
+            ],
+            [
+              37.5018526,
+              55.8360228
+            ],
+            [
+              37.5019661,
+              55.8358677
+            ],
+            [
+              37.5019873,
+              55.8358381
+            ],
+            [
+              37.5020952,
+              55.835674
+            ],
+            [
+              37.5019214,
+              55.8356335
+            ],
+            [
+              37.5018565,
+              55.8357184
+            ],
+            [
+              37.5016559,
+              55.8356706
+            ],
+            [
+              37.5016859,
+              55.83563
+            ],
+            [
+              37.4991457,
+              55.8350497
+            ],
+            [
+              37.4991175,
+              55.8350869
+            ],
+            [
+              37.4988543,
+              55.8350277
+            ],
+            [
+              37.4986667,
+              55.835296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161521",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161521,
+        "node_ids": [
+          1416871096,
+          1416871108,
+          1416871101,
+          1416871094,
+          1416871071,
+          1416871065,
+          1416871096
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с4",
+          "addr:street": "Выборгская улица",
+          "building": "industrial"
+        },
+        "source_version": 4,
+        "source_timestamp": "2020-01-27T21:03:56Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 83.491,
+          "length": 63.195
+        },
+        "edge_lengths_meters": [
+          62.675,
+          13.16,
+          37.994,
+          70.133,
+          24.119,
+          82.654
+        ],
+        "area_m2": 2516.89,
+        "elma_building_assignment": "building-4",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5007838,
+              55.8350095
+            ],
+            [
+              37.501702,
+              55.8352328
+            ],
+            [
+              37.5017828,
+              55.8351237
+            ],
+            [
+              37.5012259,
+              55.8349887
+            ],
+            [
+              37.5016696,
+              55.8344104
+            ],
+            [
+              37.5013126,
+              55.8343294
+            ],
+            [
+              37.5007838,
+              55.8350095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161523",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161523,
+        "node_ids": [
+          1416871087,
+          7620776532,
+          7620776531,
+          1416871107,
+          1416871100,
+          1416871085,
+          1416871088,
+          1416871084,
+          1416871087
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с5",
+          "addr:street": "Выборгская улица",
+          "building": "industrial"
+        },
+        "source_version": 4,
+        "source_timestamp": "2020-06-14T22:41:37Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 14.344,
+          "length": 103.649
+        },
+        "edge_lengths_meters": [
+          85.664,
+          2.951,
+          18.001,
+          9.51,
+          84.483,
+          7.271,
+          19.177,
+          5.18
+        ],
+        "area_m2": 1098.47,
+        "elma_building_assignment": "building-5",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.4988605,
+              55.8348704
+            ],
+            [
+              37.5001193,
+              55.8351706
+            ],
+            [
+              37.5001377,
+              55.8351462
+            ],
+            [
+              37.5004022,
+              55.8352093
+            ],
+            [
+              37.5004616,
+              55.8351307
+            ],
+            [
+              37.4992201,
+              55.8348347
+            ],
+            [
+              37.4991747,
+              55.8348948
+            ],
+            [
+              37.4988929,
+              55.8348276
+            ],
+            [
+              37.4988605,
+              55.8348704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161525",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161525,
+        "node_ids": [
+          1416871135,
+          1416871138,
+          1416871127,
+          1416871126,
+          1416871131,
+          1416871133,
+          1416871135
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:housenumber": "22 с7",
+          "addr:street": "Выборгская улица",
+          "building": "industrial",
+          "building:levels": "5"
+        },
+        "source_version": 4,
+        "source_timestamp": "2017-11-25T20:18:30Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 30.176,
+          "length": 13.422
+        },
+        "edge_lengths_meters": [
+          12.312,
+          29.724,
+          12.312,
+          12.007,
+          3.561,
+          14.155
+        ],
+        "area_m2": 365.94,
+        "elma_building_assignment": "building-7",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "tag_conflict": "building:levels=5 conflicts with low red-roof reference. Address/footprint match building7; do not use height tag.",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5021182,
+              55.8360388
+            ],
+            [
+              37.5023007,
+              55.8360798
+            ],
+            [
+              37.5024772,
+              55.835832
+            ],
+            [
+              37.5022947,
+              55.835791
+            ],
+            [
+              37.5022234,
+              55.8358911
+            ],
+            [
+              37.5022023,
+              55.8359208
+            ],
+            [
+              37.5021182,
+              55.8360388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161528",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161528,
+        "node_ids": [
+          1416871076,
+          1416871078,
+          1416871045,
+          1416871042,
+          1416871076
+        ],
+        "tags": {
+          "building": "industrial"
+        },
+        "source_version": 2,
+        "source_timestamp": "2017-11-25T20:18:30Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 37.366,
+          "length": 9.205
+        },
+        "edge_lengths_meters": [
+          8.733,
+          37.256,
+          8.727,
+          37.259
+        ],
+        "area_m2": 325.26,
+        "elma_building_assignment": null,
+        "assignment_status": "Unassigned rear auxiliary outline; excluded from six-building application scene",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.4994684,
+              55.8345497
+            ],
+            [
+              37.4995965,
+              55.8345806
+            ],
+            [
+              37.4998314,
+              55.8342732
+            ],
+            [
+              37.4997034,
+              55.8342423
+            ],
+            [
+              37.4994684,
+              55.8345497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161531",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161531,
+        "node_ids": [
+          1416871080,
+          1416871083,
+          1416871051,
+          1416871048,
+          1416871080
+        ],
+        "tags": {
+          "addr:country": "RU",
+          "addr:street": "Выборгская улица",
+          "building": "industrial"
+        },
+        "source_version": 3,
+        "source_timestamp": "2017-11-25T20:18:30Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 40.433,
+          "length": 16.856
+        },
+        "edge_lengths_meters": [
+          15.234,
+          39.83,
+          15.234,
+          39.83
+        ],
+        "area_m2": 606.76,
+        "elma_building_assignment": null,
+        "assignment_status": "Unassigned rear auxiliary outline; excluded from six-building application scene",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5006814,
+              55.8346342
+            ],
+            [
+              37.5009075,
+              55.8346845
+            ],
+            [
+              37.501142,
+              55.834352
+            ],
+            [
+              37.5009159,
+              55.8343017
+            ],
+            [
+              37.5006814,
+              55.8346342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128161536",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128161536,
+        "node_ids": [
+          1416871130,
+          1416871133,
+          1416871131,
+          1416871128,
+          1416871130
+        ],
+        "tags": {
+          "building": "industrial"
+        },
+        "source_version": 2,
+        "source_timestamp": "2017-11-25T20:18:30Z",
+        "closed": true,
+        "aligned_extents_meters": {
+          "width": 4.178,
+          "length": 16.047
+        },
+        "edge_lengths_meters": [
+          15.937,
+          3.561,
+          15.927,
+          3.553
+        ],
+        "area_m2": 56.67,
+        "elma_building_assignment": "building-3-7-connector",
+        "assignment_status": "Matched by relative position, reference render and floor plans; not an entrance survey",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5019661,
+              55.8358677
+            ],
+            [
+              37.5022023,
+              55.8359208
+            ],
+            [
+              37.5022234,
+              55.8358911
+            ],
+            [
+              37.5019873,
+              55.8358381
+            ],
+            [
+              37.5019661,
+              55.8358677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5184930",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 5184930,
+        "node_ids": [
+          3734261172,
+          3027074955,
+          4727974429,
+          4727974420,
+          4727974425,
+          2713680736,
+          36162496,
+          4985246752
+        ],
+        "tags": {
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "RU:urban",
+          "name": "Выборгская улица",
+          "name:en": "Vyborgskaya Street",
+          "name:uk": "Виборзька вулиця",
+          "omkum:old_name": "проектируемый проезд № 1494",
+          "oneway": "yes",
+          "surface": "asphalt"
+        },
+        "source_version": 44,
+        "source_timestamp": "2023-09-16T23:03:43Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5045492,
+            55.8367681
+          ],
+          [
+            37.50429,
+            55.836709
+          ],
+          [
+            37.5041525,
+            55.8366781
+          ],
+          [
+            37.5039682,
+            55.8366357
+          ],
+          [
+            37.502964,
+            55.8364043
+          ],
+          [
+            37.5026225,
+            55.8363256
+          ],
+          [
+            37.498307,
+            55.8353665
+          ],
+          [
+            37.4968781,
+            55.835039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265755807",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 265755807,
+        "node_ids": [
+          2713680735,
+          7804883437,
+          7804883436,
+          7804883435,
+          8806942106,
+          7804883434,
+          7804883433,
+          7804883432,
+          7804883431
+        ],
+        "tags": {
+          "access": "private",
+          "highway": "service"
+        },
+        "source_version": 4,
+        "source_timestamp": "2021-06-05T13:41:36Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.503002,
+            55.8358433
+          ],
+          [
+            37.5032313,
+            55.8355473
+          ],
+          [
+            37.5032271,
+            55.8355022
+          ],
+          [
+            37.5031936,
+            55.8354728
+          ],
+          [
+            37.5019641,
+            55.8351459
+          ],
+          [
+            37.5017238,
+            55.835082
+          ],
+          [
+            37.5016239,
+            55.8350157
+          ],
+          [
+            37.5015897,
+            55.8349385
+          ],
+          [
+            37.5018297,
+            55.8345736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265759481",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 265759481,
+        "node_ids": [
+          2713696109,
+          2713696102,
+          2713696105,
+          3047945267,
+          3047945275,
+          2713696112,
+          2713696111,
+          2713696106,
+          8806922463,
+          2713696103,
+          2713696108,
+          2713696104,
+          2713696107,
+          2713696110,
+          2713696109
+        ],
+        "tags": {
+          "landuse": "industrial"
+        },
+        "source_version": 7,
+        "source_timestamp": "2023-08-25T13:13:24Z",
+        "closed": true,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.4992018,
+              55.8347831
+            ],
+            [
+              37.5006705,
+              55.8351217
+            ],
+            [
+              37.5012565,
+              55.8343035
+            ],
+            [
+              37.5022904,
+              55.8345468
+            ],
+            [
+              37.5045296,
+              55.8350445
+            ],
+            [
+              37.5046439,
+              55.8350777
+            ],
+            [
+              37.504125,
+              55.8358237
+            ],
+            [
+              37.5039268,
+              55.8361112
+            ],
+            [
+              37.5029778,
+              55.8358734
+            ],
+            [
+              37.502548,
+              55.8357657
+            ],
+            [
+              37.5022971,
+              55.8361466
+            ],
+            [
+              37.4984787,
+              55.8352932
+            ],
+            [
+              37.4988353,
+              55.8347964
+            ],
+            [
+              37.4991371,
+              55.834867
+            ],
+            [
+              37.4992018,
+              55.8347831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299212882",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 299212882,
+        "node_ids": [
+          1042975545,
+          4985246765,
+          1042975539
+        ],
+        "tags": {
+          "boat": "no",
+          "name": "Головинский канал",
+          "waterway": "canal"
+        },
+        "source_version": 31,
+        "source_timestamp": "2023-09-17T00:04:22Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.4969767,
+            55.8352338
+          ],
+          [
+            37.5041384,
+            55.8368546
+          ],
+          [
+            37.5042588,
+            55.836894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/686453057",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 686453057,
+        "node_ids": [
+          6434206144,
+          4727974434,
+          3027074946,
+          4727974433,
+          3027074948
+        ],
+        "tags": {
+          "highway": "footway",
+          "lit": "yes"
+        },
+        "source_version": 4,
+        "source_timestamp": "2025-05-12T20:15:37Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.4969112,
+            55.8349976
+          ],
+          [
+            37.4970849,
+            55.8350345
+          ],
+          [
+            37.4984144,
+            55.8353316
+          ],
+          [
+            37.4986471,
+            55.8353554
+          ],
+          [
+            37.5026731,
+            55.8362528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/767376220",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 767376220,
+        "node_ids": [
+          7164885032,
+          7164885031,
+          7164885030,
+          7164885029,
+          7164885028,
+          7164885027,
+          7164885032
+        ],
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "source_version": 2,
+        "source_timestamp": "2021-06-05T13:41:36Z",
+        "closed": true,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5018391,
+              55.8355466
+            ],
+            [
+              37.5025606,
+              55.8357153
+            ],
+            [
+              37.5026519,
+              55.8355922
+            ],
+            [
+              37.5030438,
+              55.8356838
+            ],
+            [
+              37.5031773,
+              55.8355038
+            ],
+            [
+              37.5020639,
+              55.8352435
+            ],
+            [
+              37.5018391,
+              55.8355466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/951473532",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 951473532,
+        "node_ids": [
+          8806942104,
+          8806942105,
+          8806942106
+        ],
+        "tags": {
+          "access": "private",
+          "highway": "service"
+        },
+        "source_version": 1,
+        "source_timestamp": "2021-06-05T13:41:36Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5005396,
+            55.8353271
+          ],
+          [
+            37.50165,
+            55.8355801
+          ],
+          [
+            37.5019641,
+            55.8351459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/951473823",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 951473823,
+        "node_ids": [
+          3027074948,
+          4727974424,
+          4727974421,
+          4727974428,
+          5133887798,
+          6435978131,
+          6435978130,
+          6435978129,
+          6435978128,
+          12574611801,
+          3734321218
+        ],
+        "tags": {
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "source_version": 4,
+        "source_timestamp": "2025-05-12T20:16:22Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5026731,
+            55.8362528
+          ],
+          [
+            37.5031704,
+            55.8363734
+          ],
+          [
+            37.5038904,
+            55.8365479
+          ],
+          [
+            37.5041932,
+            55.8366212
+          ],
+          [
+            37.5045014,
+            55.836694
+          ],
+          [
+            37.5047373,
+            55.8367553
+          ],
+          [
+            37.5048982,
+            55.8367433
+          ],
+          [
+            37.5049666,
+            55.8367215
+          ],
+          [
+            37.5050122,
+            55.8366913
+          ],
+          [
+            37.5050243,
+            55.8366545
+          ],
+          [
+            37.5050477,
+            55.8365835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/951473824",
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 951473824,
+        "node_ids": [
+          2713680736,
+          3027074948,
+          8806922463,
+          2713680735
+        ],
+        "tags": {
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "source_version": 2,
+        "source_timestamp": "2025-05-12T20:17:10Z",
+        "closed": false,
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5026225,
+            55.8363256
+          ],
+          [
+            37.5026731,
+            55.8362528
+          ],
+          [
+            37.5029778,
+            55.8358734
+          ],
+          [
+            37.503002,
+            55.8358433
+          ]
+        ]
+      }
+    }
+  ]
+}
